@@ -1,4 +1,4 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Portafolio de Daniela Mendoza con Bootstrap 5
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
@@ -10,23 +10,26 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+![image](https://github.com/DanielaMendozaG/PortafolioFinal/assets/140553990/374ccc25-bcd0-450f-83e7-10a0050acc38)
+
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![image](https://github.com/DanielaMendozaG/PortafolioFinal/assets/140553990/284ee88f-1419-40a1-821c-c2d597d4620c)
+
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![image](https://github.com/DanielaMendozaG/PortafolioFinal/assets/140553990/eeb81761-18e6-4bf2-8792-a58ce166ec53)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![image](https://github.com/DanielaMendozaG/PortafolioFinal/assets/140553990/73cf9e91-ceb1-4f47-af5c-d3285ff9b7f7)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![image](https://github.com/DanielaMendozaG/PortafolioFinal/assets/140553990/ff4b3e45-54ac-4e7d-88a4-aa253674ee76)
 
 ## Tecnologías
 
